@@ -1,0 +1,3 @@
+https://www.blazemeter.com/blog/5-ways-launch-jmeter-test-without-using-jmeter-gui
+http://www.ubik-ingenierie.com/blog/automatically-generating-nice-graphs-at-end-of-your-load-test-with-apache-jmeter-and-jmeter-plugins/
+https://www.blazemeter.com/blog/advanced-usage-json-path-extractor-jmeter
